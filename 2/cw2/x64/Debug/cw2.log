@@ -1,0 +1,17 @@
+﻿  cw2.cpp
+D:\project\2\cw2\cw2.cpp(5,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\project\2\cw2\cw2.cpp(9,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\project\2\cw2\cw2.cpp(13,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\project\2\cw2\cw2.cpp(14,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\project\2\cw2\cw2.cpp(22,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\project\2\cw2\cw2.cpp(28,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\2\cw2\cw2.cpp(35,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\2\cw2\cw2.cpp(37,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\2\cw2\cw2.cpp(44,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\2\cw2\cw2.cpp(46,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\2\cw2\cw2.cpp(48,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\2\cw2\cw2.cpp(55,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\2\cw2\cw2.cpp(70,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\2\cw2\cw2.cpp(73,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\2\cw2\cw2.cpp(76,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  cw2.vcxproj -> D:\project\2\cw2\x64\Debug\cw2.exe
