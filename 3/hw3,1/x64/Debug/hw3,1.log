@@ -1,0 +1,4 @@
+﻿  hw3_1.cpp
+D:\project\3\hw3,1\hw3_1.cpp(29,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\3\hw3,1\hw3_1.cpp(31,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hw3,1.vcxproj -> D:\project\3\hw3,1\x64\Debug\hw3,1.exe
