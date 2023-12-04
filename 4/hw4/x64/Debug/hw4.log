@@ -1,0 +1,4 @@
+﻿  hw4.cpp
+D:\project\4\hw4\hw4.cpp(33,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\4\hw4\hw4.cpp(37,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hw4.vcxproj -> D:\project\4\hw4\x64\Debug\hw4.exe
