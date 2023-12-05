@@ -1,0 +1,13 @@
+﻿  1.cpp
+D:\project\8\cw8\1.cpp(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\8\cw8\1.cpp(15,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2.cpp
+D:\project\8\cw8\2.cpp(10,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  3.cpp
+D:\project\8\cw8\3.cpp(13,20): error C7555: use of designated initializers requires at least '/std:c++20'
+D:\project\8\cw8\3.cpp(13,81): error C4576: a parenthesized type followed by an initializer list is a non-standard explicit type conversion syntax
+D:\project\8\cw8\3.cpp(21,20): error C7555: use of designated initializers requires at least '/std:c++20'
+D:\project\8\cw8\3.cpp(21,41): error C4576: a parenthesized type followed by an initializer list is a non-standard explicit type conversion syntax
+D:\project\8\cw8\3.cpp(27,20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\8\cw8\3.cpp(48,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...

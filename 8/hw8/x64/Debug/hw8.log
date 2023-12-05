@@ -1,0 +1,5 @@
+﻿  hw8.cpp
+D:\project\8\hw8\hw8.cpp(74,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\project\8\hw8\hw8.cpp(77,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\8\hw8\hw8.cpp(79,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hw8.vcxproj -> D:\project\8\hw8\x64\Debug\hw8.exe
