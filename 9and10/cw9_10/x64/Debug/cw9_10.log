@@ -1,0 +1,26 @@
+﻿  1.cpp
+D:\project\9and10\cw9_10\1.cpp(36,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\9and10\cw9_10\1.cpp(45,14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\9and10\cw9_10\1.cpp(60,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\9and10\cw9_10\1.cpp(76,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\9and10\cw9_10\1.cpp(79,37): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2.cpp
+D:\project\9and10\cw9_10\2.cpp(17,14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  3.cpp
+D:\project\9and10\cw9_10\3.cpp(38,9): error C7555: use of designated initializers requires at least '/std:c++20'
+D:\project\9and10\cw9_10\3.cpp(41,5): error C4576: a parenthesized type followed by an initializer list is a non-standard explicit type conversion syntax
+D:\project\9and10\cw9_10\3.cpp(39,9): error C7560: 'month': designators must appear in member declaration order of class 'Date'
+D:\project\9and10\cw9_10\3.cpp(40,9): error C7560: 'year': designators must appear in member declaration order of class 'Date'
+  4.cpp
+D:\project\9and10\cw9_10\4.cpp(14,32): error C4576: a parenthesized type followed by an initializer list is a non-standard explicit type conversion syntax
+  5.cpp
+  Generating Code...
+D:\project\9and10\cw9_10\5.cpp(16,16): error C2440: 'initializing': cannot convert from 'void *' to 'char *'
+  D:\project\9and10\cw9_10\5.cpp(16,16):
+  Conversion from 'void*' to pointer to non-'void' requires an explicit cast
+  
+D:\project\9and10\cw9_10\5.cpp(18,9): error C7555: use of designated initializers requires at least '/std:c++20'
+D:\project\9and10\cw9_10\5.cpp(21,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\9and10\cw9_10\5.cpp(23,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\9and10\cw9_10\5.cpp(54,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\9and10\cw9_10\5.cpp(61,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
