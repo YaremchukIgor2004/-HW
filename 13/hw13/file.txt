@@ -1,0 +1,4 @@
+text with numbers: 12345678 and 98765432.
+line with a date: 01022022.
+invalid date: 1234567.
+valid date: 25122020.
